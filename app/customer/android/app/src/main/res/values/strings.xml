@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">YUM2GO</string>
+    <string name="facebook_app_id">673419883357987</string>
+    <string name="fb_login_protocol_scheme">fb673419883357987</string>
+    <string name="facebook_client_token">8ee2f0fc6dd26bf616908aa6ca23fb8a</string>
+</resources>

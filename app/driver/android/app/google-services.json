@@ -1,0 +1,146 @@
+{
+  "project_info": {
+    "project_number": "307788788371",
+    "firebase_url": "https://yum2go-new-default-rtdb.firebaseio.com",
+    "project_id": "yum2go-new",
+    "storage_bucket": "yum2go-new.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:307788788371:android:ccf7124f63195955469366",
+        "android_client_info": {
+          "package_name": "com.yum2go.driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "307788788371-b4kig22amapgig1ahvnbg79nv7i2nmor.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yum2go.driver",
+            "certificate_hash": "2f001c1452702069e6ece9892f24f4138229face"
+          }
+        },
+        {
+          "client_id": "307788788371-v1ecp615gsj3kg1dju6u1c2ogat4tlni.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLJ8MQcJRRSFxUhgoEta34Nyu2-jI0q5k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "307788788371-d19hbccmtbgue1hs9q9i5ln2obrc00nq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "307788788371-0l7vcl9brhso25qohsvg7ojf92udr263.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.yum2go.customer",
+                "app_store_id": "6476611154"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:307788788371:android:d0d5b7da18b7785f469366",
+        "android_client_info": {
+          "package_name": "com.yum2go.market"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "307788788371-11h0qggb1fmvurht4jg9ib0l2q0c8dif.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yum2go.market",
+            "certificate_hash": "2f001c1452702069e6ece9892f24f4138229face"
+          }
+        },
+        {
+          "client_id": "307788788371-v1ecp615gsj3kg1dju6u1c2ogat4tlni.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLJ8MQcJRRSFxUhgoEta34Nyu2-jI0q5k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "307788788371-d19hbccmtbgue1hs9q9i5ln2obrc00nq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "307788788371-0l7vcl9brhso25qohsvg7ojf92udr263.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.yum2go.customer",
+                "app_store_id": "6476611154"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:307788788371:android:0f762c2a01ef8923469366",
+        "android_client_info": {
+          "package_name": "com.yum2go.restaurant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "307788788371-n1psuiumund1a3nqf6g5iuokjblhcllh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yum2go.restaurant",
+            "certificate_hash": "2f001c1452702069e6ece9892f24f4138229face"
+          }
+        },
+        {
+          "client_id": "307788788371-v1ecp615gsj3kg1dju6u1c2ogat4tlni.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLJ8MQcJRRSFxUhgoEta34Nyu2-jI0q5k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "307788788371-d19hbccmtbgue1hs9q9i5ln2obrc00nq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "307788788371-0l7vcl9brhso25qohsvg7ojf92udr263.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.yum2go.customer",
+                "app_store_id": "6476611154"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
